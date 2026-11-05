@@ -13,6 +13,7 @@ Internal audit & process improvement consultant. Building business software with
 | 🏃 **Shadow Runner — Demir’in Macerası** | **[▶ Oyna](https://fozdemiroglu.github.io/shadow-runner/)** |
 | 🏎️ **Neon Drift** | **[▶ Oyna](https://fozdemiroglu.github.io/neon-drift/)** |
 | ✨ **Neon Tower** | **[▶ Oyna](https://fozdemiroglu.github.io/neon-tower/)** |
+| ✊ **Taş Kağıt Makas** | **[▶ Oyna](https://fozdemiroglu.github.io/tas-kagit-makas/)** |
 
 ### Shadow Runner
 
@@ -41,6 +42,14 @@ Otomatik zıplayan kaşifi yönlendir; hareketli, kırılan ve yaylı platformla
 <a href="https://fozdemiroglu.github.io/neon-tower/"><img src="https://raw.githubusercontent.com/fozdemiroglu/neon-tower/main/assets/preview.jpg" alt="Neon Tower — tarayıcıda oynamak için tıkla" width="600"></a>
 
 **[▶ Neon Tower OYNA](https://fozdemiroglu.github.io/neon-tower/)** · [Kaynak kodları](https://github.com/fozdemiroglu/neon-tower)
+
+---
+
+### Taş Kağıt Makas
+
+Büyük ✊ ✋ ✌️ düğmeleriyle bilgisayara meydan oku! İlk üç galibiyete ulaşan kazanır. Neon skor tabelası, geri sayım animasyonu ve kazanınca konfeti.
+
+**[▶ TAŞ KAĞIT MAKAS OYNA](https://fozdemiroglu.github.io/tas-kagit-makas/)** · [Kaynak kodları](https://github.com/fozdemiroglu/tas-kagit-makas)
 
 ---
 
