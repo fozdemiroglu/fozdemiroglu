@@ -14,6 +14,7 @@ Internal audit & process improvement consultant. Building business software with
 | 🏎️ **Neon Drift** | **[▶ Oyna](https://fozdemiroglu.github.io/neon-drift/)** |
 | ✨ **Neon Tower** | **[▶ Oyna](https://fozdemiroglu.github.io/neon-tower/)** |
 | ✊ **Taş Kağıt Makas** | **[▶ Oyna](https://fozdemiroglu.github.io/tas-kagit-makas/)** |
+| 🧩 **XOX & SOS** | **[▶ Oyna](https://fozdemiroglu.github.io/tas-kagit-makas/xox-sos/)** |
 
 ### Shadow Runner
 
@@ -52,6 +53,14 @@ Büyük ✊ ✋ ✌️ düğmeleriyle bilgisayara meydan oku! İlk üç galibiye
 <a href="https://fozdemiroglu.github.io/tas-kagit-makas/"><img src="https://raw.githubusercontent.com/fozdemiroglu/tas-kagit-makas/main/assets/preview.jpg" alt="Taş Kağıt Makas — tarayıcıda oynamak için tıkla" width="600"></a>
 
 **[▶ TAŞ KAĞIT MAKAS OYNA](https://fozdemiroglu.github.io/tas-kagit-makas/)** · [Kaynak kodları](https://github.com/fozdemiroglu/tas-kagit-makas)
+
+---
+
+### XOX & SOS
+
+İki oyun bir arada: bilgisayara karşı veya aynı cihazda iki kişi. XOX’ta ilk üç galibiyet, SOS’ta her yeni SOS’a puan ve ek hamle. Minik stratejist ve Klasik seviyeleri; 4×4, 5×5 ve 6×6 SOS tahtaları.
+
+**[▶ XOX & SOS OYNA](https://fozdemiroglu.github.io/tas-kagit-makas/xox-sos/)** · [Kaynak kodları](https://github.com/fozdemiroglu/tas-kagit-makas/tree/main/xox-sos)
 
 ---
 
