@@ -58,7 +58,7 @@ Büyük ✊ ✋ ✌️ düğmeleriyle bilgisayara meydan oku! İlk üç galibiye
 
 ### XOX & SOS
 
-İki oyun bir arada: bilgisayara karşı veya aynı cihazda iki kişi. XOX’ta ilk üç galibiyet, SOS’ta her yeni SOS’a puan ve ek hamle. Minik stratejist ve Klasik seviyeleri; 4×4, 5×5 ve 6×6 SOS tahtaları.
+İki oyun bir arada: bilgisayara karşı veya aynı cihazda iki kişi. XOX’ta ilk üç galibiyet, SOS’ta her yeni SOS’a puan ve ek hamle. Minik stratejist ve Klasik seviyeleri; 3×3 Mini, 4×4, 5×5 ve 6×6 SOS tahtaları.
 
 **[▶ XOX & SOS OYNA](https://fozdemiroglu.github.io/tas-kagit-makas/xox-sos/)** · [Kaynak kodları](https://github.com/fozdemiroglu/tas-kagit-makas/tree/main/xox-sos)
 
