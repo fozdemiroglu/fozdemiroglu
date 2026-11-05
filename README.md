@@ -49,6 +49,8 @@ Otomatik zıplayan kaşifi yönlendir; hareketli, kırılan ve yaylı platformla
 
 Büyük ✊ ✋ ✌️ düğmeleriyle bilgisayara meydan oku! İlk üç galibiyete ulaşan kazanır. Neon skor tabelası, geri sayım animasyonu ve kazanınca konfeti.
 
+<a href="https://fozdemiroglu.github.io/tas-kagit-makas/"><img src="https://raw.githubusercontent.com/fozdemiroglu/tas-kagit-makas/main/assets/preview.jpg" alt="Taş Kağıt Makas — tarayıcıda oynamak için tıkla" width="600"></a>
+
 **[▶ TAŞ KAĞIT MAKAS OYNA](https://fozdemiroglu.github.io/tas-kagit-makas/)** · [Kaynak kodları](https://github.com/fozdemiroglu/tas-kagit-makas)
 
 ---
