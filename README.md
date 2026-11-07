@@ -93,4 +93,4 @@ Taşını bırak, dördünü yatay, dikey veya çapraz birleştir. Bilgisayara k
 İç denetim, iç kontrol, süreç geliştirme ve denetim analitiği alanlarında çalışıyorum; iş ihtiyaçlarına yönelik yazılımlar geliştiriyorum.
 
 [Özdemiroğlu Danışmanlık](https://ozdemirogludanismanlik.com/) · [İş Hayatı ve Denetim](https://ishayativedenetim.com/)
- [FOZ Budget Tracker](https://play.google.com/store/apps/details?id=com.fozanalytics.budgettracker)
+  · [FOZ Budget Tracker](https://play.google.com/store/apps/details?id=com.fozanalytics.budgettracker)
