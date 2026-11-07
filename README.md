@@ -17,6 +17,7 @@ Internal audit & process improvement consultant. Building business software with
 | 🧩 **XOX & SOS** | **[▶ Oyna](https://fozdemiroglu.github.io/tas-kagit-makas/xox-sos/)** |
 | 🚩 **Mayın Tarlası / Sayı Avcısı** | **[▶ Oyna](https://fozdemiroglu.github.io/tas-kagit-makas/mayin-tarlasi/)** |
 | 🔵 **4’ü Bir Yerde** | **[▶ Oyna](https://fozdemiroglu.github.io/tas-kagit-makas/dordu-bir-yerde/)** |
+| 🃏 **Neon Hafıza** | **[▶ Oyna](https://fozdemiroglu.github.io/tas-kagit-makas/neon-hafiza/)** |
 
 ### Shadow Runner
 
@@ -85,6 +86,16 @@ Taşını bırak, dördünü yatay, dikey veya çapraz birleştir. Bilgisayara k
 <a href="https://fozdemiroglu.github.io/tas-kagit-makas/dordu-bir-yerde/"><img src="https://raw.githubusercontent.com/fozdemiroglu/fozdemiroglu/main/assets/dordu-bir-yerde-preview.jpg" alt="4’ü Bir Yerde oyun ekranı — oynamak için tıkla" width="600"></a>
 
 **[▶ 4’Ü BİR YERDE OYNA](https://fozdemiroglu.github.io/tas-kagit-makas/dordu-bir-yerde/)** · [Kaynak kodları](https://github.com/fozdemiroglu/tas-kagit-makas/tree/main/dordu-bir-yerde)
+
+---
+
+### Neon Hafıza
+
+Kartları çevir, eşlerini bul! Şekiller, taşıtlar veya rastgele kart setiyle üç zorlukta oyna. Süreni ve hamle sayını takip et, kendi rekorunu geç.
+
+<a href="https://fozdemiroglu.github.io/tas-kagit-makas/neon-hafiza/"><img src="https://raw.githubusercontent.com/fozdemiroglu/fozdemiroglu/main/assets/neon-hafiza-preview.jpg" alt="Neon Hafıza oyun ekranı — oynamak için tıkla" width="600"></a>
+
+**[▶ NEON HAFIZA OYNA](https://fozdemiroglu.github.io/tas-kagit-makas/neon-hafiza/)** · [Kaynak kodları](https://github.com/fozdemiroglu/tas-kagit-makas/tree/main/neon-hafiza)
 
 ---
 
