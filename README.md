@@ -90,6 +90,8 @@ Taşını bırak, dördünü yatay, dikey veya çapraz birleştir. Bilgisayara k
 
 ## İş yazılımları ve danışmanlık
 
+<img src="assets/ozdemiroglu-danismanlik-foz-analytics.jpg" alt="Özdemiroğlu Danışmanlık, İş Hayatı ve Denetim ve FOZ Analytics — FOZ Budget Tracker" width="820">
+
 İç denetim, iç kontrol, süreç geliştirme ve denetim analitiği alanlarında çalışıyorum; iş ihtiyaçlarına yönelik yazılımlar geliştiriyorum.
 
 [Özdemiroğlu Danışmanlık](https://ozdemirogludanismanlik.com/) · [İş Hayatı ve Denetim](https://ishayativedenetim.com/)
