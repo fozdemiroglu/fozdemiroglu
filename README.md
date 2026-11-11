@@ -19,6 +19,7 @@ Internal audit & process improvement consultant. Building business software with
 | 🔵 **4’ü Bir Yerde** | **[▶ Oyna](https://fozdemiroglu.github.io/tas-kagit-makas/dordu-bir-yerde/)** |
 | 🃏 **Neon Hafıza** | **[▶ Oyna](https://fozdemiroglu.github.io/tas-kagit-makas/neon-hafiza/)** |
 | 🧱 **Neon Tuğla** — YENİ | **[▶ Oyna](https://fozdemiroglu.github.io/tas-kagit-makas/neon-tugla/)** |
+| 🐍 **Neon Yılan** — YENİ · 1 veya 2 kişi | **[▶ Oyna](https://fozdemiroglu.github.io/tas-kagit-makas/neon-yilan/)** |
 
 ### Shadow Runner
 
@@ -107,6 +108,16 @@ Topu sektir, tuğlaları kır, FOZ'a ulaş! Kalp, roket, araba, robot gibi 10 ş
 <a href="https://fozdemiroglu.github.io/tas-kagit-makas/neon-tugla/"><img src="https://raw.githubusercontent.com/fozdemiroglu/fozdemiroglu/main/assets/neon-tugla-preview.jpg" alt="Neon Tuğla oyun ekranı — oynamak için tıkla" width="600"></a>
 
 **[▶ NEON TUĞLA OYNA](https://fozdemiroglu.github.io/tas-kagit-makas/neon-tugla/)** · [Kaynak kodları](https://github.com/fozdemiroglu/tas-kagit-makas/tree/main/neon-tugla)
+
+---
+
+### Neon Yılan
+
+Elmaları topla, uza, çarpma! Tek başına rekor kovala ya da aynı ekranda iki kişi oyna: Pembe ile Mavi. Minik modda kimse elenmez, 90 saniyede en çok elmayı toplayan kazanır; Klasik modda ilk 3 turu alan kazanır. Telefonda her oyuncunun kendi yön düğmeleri var.
+
+<a href="https://fozdemiroglu.github.io/tas-kagit-makas/neon-yilan/"><img src="https://raw.githubusercontent.com/fozdemiroglu/fozdemiroglu/main/assets/neon-yilan-preview.jpg" alt="Neon Yılan oyun ekranı — oynamak için tıkla" width="600"></a>
+
+**[▶ NEON YILAN OYNA](https://fozdemiroglu.github.io/tas-kagit-makas/neon-yilan/)** · [Kaynak kodları](https://github.com/fozdemiroglu/tas-kagit-makas/tree/main/neon-yilan)
 
 ---
 
