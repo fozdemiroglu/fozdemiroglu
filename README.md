@@ -18,8 +18,8 @@ Internal audit & process improvement consultant. Building business software with
 | 🚩 **Mayın Tarlası / Sayı Avcısı** | **[▶ Oyna](https://fozdemiroglu.github.io/tas-kagit-makas/mayin-tarlasi/)** |
 | 🔵 **4’ü Bir Yerde** | **[▶ Oyna](https://fozdemiroglu.github.io/tas-kagit-makas/dordu-bir-yerde/)** |
 | 🃏 **Neon Hafıza** | **[▶ Oyna](https://fozdemiroglu.github.io/tas-kagit-makas/neon-hafiza/)** |
-| 🧱 **Neon Tuğla** — YENİ | **[▶ Oyna](https://fozdemiroglu.github.io/neon-tugla/)** |
-| 🐍 **Neon Yılan** — YENİ · 1 veya 2 kişi | **[▶ Oyna](https://fozdemiroglu.github.io/neon-yilan/)** |
+| 🧱 **Neon Tuğla** | **[▶ Oyna](https://fozdemiroglu.github.io/neon-tugla/)** |
+| 🐍 **Neon Yılan** | **[▶ Oyna](https://fozdemiroglu.github.io/neon-yilan/)** |
 
 ### Shadow Runner
 
