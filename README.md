@@ -18,6 +18,7 @@ Internal audit & process improvement consultant. Building business software with
 | 🚩 **Mayın Tarlası / Sayı Avcısı** | **[▶ Oyna](https://fozdemiroglu.github.io/tas-kagit-makas/mayin-tarlasi/)** |
 | 🔵 **4’ü Bir Yerde** | **[▶ Oyna](https://fozdemiroglu.github.io/tas-kagit-makas/dordu-bir-yerde/)** |
 | 🃏 **Neon Hafıza** | **[▶ Oyna](https://fozdemiroglu.github.io/tas-kagit-makas/neon-hafiza/)** |
+| 🧱 **Neon Tuğla** — YENİ | **[▶ Oyna](https://fozdemiroglu.github.io/tas-kagit-makas/neon-tugla/)** |
 
 ### Shadow Runner
 
@@ -96,6 +97,16 @@ Kartları çevir, eşlerini bul! Şekiller, taşıtlar veya rastgele kart setiyl
 <a href="https://fozdemiroglu.github.io/tas-kagit-makas/neon-hafiza/"><img src="https://raw.githubusercontent.com/fozdemiroglu/fozdemiroglu/main/assets/neon-hafiza-preview.jpg" alt="Neon Hafıza oyun ekranı — oynamak için tıkla" width="600"></a>
 
 **[▶ NEON HAFIZA OYNA](https://fozdemiroglu.github.io/tas-kagit-makas/neon-hafiza/)** · [Kaynak kodları](https://github.com/fozdemiroglu/tas-kagit-makas/tree/main/neon-hafiza)
+
+---
+
+### Neon Tuğla
+
+Topu sektir, tuğlaları kır, FOZ'a ulaş! Kalp, roket, araba, robot gibi 10 şekilli bölüm; geniş raket, ×3 top, lazer ve kalkan güçlendirmeleri. Minik ve Klasik mod, kombo puanı ve yerel rekorlar.
+
+<a href="https://fozdemiroglu.github.io/tas-kagit-makas/neon-tugla/"><img src="https://raw.githubusercontent.com/fozdemiroglu/fozdemiroglu/main/assets/neon-tugla-preview.jpg" alt="Neon Tuğla oyun ekranı — oynamak için tıkla" width="600"></a>
+
+**[▶ NEON TUĞLA OYNA](https://fozdemiroglu.github.io/tas-kagit-makas/neon-tugla/)** · [Kaynak kodları](https://github.com/fozdemiroglu/tas-kagit-makas/tree/main/neon-tugla)
 
 ---
 
