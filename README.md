@@ -18,8 +18,8 @@ Internal audit & process improvement consultant. Building business software with
 | 🚩 **Mayın Tarlası / Sayı Avcısı** | **[▶ Oyna](https://fozdemiroglu.github.io/tas-kagit-makas/mayin-tarlasi/)** |
 | 🔵 **4’ü Bir Yerde** | **[▶ Oyna](https://fozdemiroglu.github.io/tas-kagit-makas/dordu-bir-yerde/)** |
 | 🃏 **Neon Hafıza** | **[▶ Oyna](https://fozdemiroglu.github.io/tas-kagit-makas/neon-hafiza/)** |
-| 🧱 **Neon Tuğla** — YENİ | **[▶ Oyna](https://fozdemiroglu.github.io/tas-kagit-makas/neon-tugla/)** |
-| 🐍 **Neon Yılan** — YENİ · 1 veya 2 kişi | **[▶ Oyna](https://fozdemiroglu.github.io/tas-kagit-makas/neon-yilan/)** |
+| 🧱 **Neon Tuğla** — YENİ | **[▶ Oyna](https://fozdemiroglu.github.io/neon-tugla/)** |
+| 🐍 **Neon Yılan** — YENİ · 1 veya 2 kişi | **[▶ Oyna](https://fozdemiroglu.github.io/neon-yilan/)** |
 
 ### Shadow Runner
 
@@ -105,9 +105,9 @@ Kartları çevir, eşlerini bul! Şekiller, taşıtlar veya rastgele kart setiyl
 
 Topu sektir, tuğlaları kır, FOZ'a ulaş! Kalp, roket, araba, robot gibi 10 şekilli bölüm; geniş raket, ×3 top, lazer ve kalkan güçlendirmeleri. Minik ve Klasik mod, kombo puanı ve yerel rekorlar.
 
-<a href="https://fozdemiroglu.github.io/tas-kagit-makas/neon-tugla/"><img src="https://raw.githubusercontent.com/fozdemiroglu/fozdemiroglu/main/assets/neon-tugla-preview.jpg" alt="Neon Tuğla oyun ekranı — oynamak için tıkla" width="600"></a>
+<a href="https://fozdemiroglu.github.io/neon-tugla/"><img src="https://raw.githubusercontent.com/fozdemiroglu/fozdemiroglu/main/assets/neon-tugla-preview.jpg" alt="Neon Tuğla oyun ekranı — oynamak için tıkla" width="600"></a>
 
-**[▶ NEON TUĞLA OYNA](https://fozdemiroglu.github.io/tas-kagit-makas/neon-tugla/)** · [Kaynak kodları](https://github.com/fozdemiroglu/tas-kagit-makas/tree/main/neon-tugla)
+**[▶ NEON TUĞLA OYNA](https://fozdemiroglu.github.io/neon-tugla/)** · [Kaynak kodları](https://github.com/fozdemiroglu/fozdemiroglu.github.io/tree/main/neon-tugla)
 
 ---
 
@@ -115,9 +115,9 @@ Topu sektir, tuğlaları kır, FOZ'a ulaş! Kalp, roket, araba, robot gibi 10 ş
 
 Elmaları topla, uza, çarpma! Tek başına rekor kovala ya da aynı ekranda iki kişi oyna: Pembe ile Mavi. Minik modda kimse elenmez, 90 saniyede en çok elmayı toplayan kazanır; Klasik modda ilk 3 turu alan kazanır. Telefonda her oyuncunun kendi yön düğmeleri var.
 
-<a href="https://fozdemiroglu.github.io/tas-kagit-makas/neon-yilan/"><img src="https://raw.githubusercontent.com/fozdemiroglu/fozdemiroglu/main/assets/neon-yilan-preview.jpg" alt="Neon Yılan oyun ekranı — oynamak için tıkla" width="600"></a>
+<a href="https://fozdemiroglu.github.io/neon-yilan/"><img src="https://raw.githubusercontent.com/fozdemiroglu/fozdemiroglu/main/assets/neon-yilan-preview.jpg" alt="Neon Yılan oyun ekranı — oynamak için tıkla" width="600"></a>
 
-**[▶ NEON YILAN OYNA](https://fozdemiroglu.github.io/tas-kagit-makas/neon-yilan/)** · [Kaynak kodları](https://github.com/fozdemiroglu/tas-kagit-makas/tree/main/neon-yilan)
+**[▶ NEON YILAN OYNA](https://fozdemiroglu.github.io/neon-yilan/)** · [Kaynak kodları](https://github.com/fozdemiroglu/fozdemiroglu.github.io/tree/main/neon-yilan)
 
 ---
 
