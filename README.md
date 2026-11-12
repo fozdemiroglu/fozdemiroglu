@@ -20,6 +20,8 @@ Internal audit & process improvement consultant. Building business software with
 | 🃏 **Neon Hafıza** | **[▶ Oyna](https://fozdemiroglu.github.io/tas-kagit-makas/neon-hafiza/)** |
 | 🧱 **Neon Tuğla** | **[▶ Oyna](https://fozdemiroglu.github.io/neon-tugla/)** |
 | 🐍 **Neon Yılan** | **[▶ Oyna](https://fozdemiroglu.github.io/neon-yilan/)** |
+| 🔤 **Neon Kelime** | **[▶ Oyna](https://fozdemiroglu.github.io/neon-kelime/)** |
+| ➗ **Neon Hesap** | **[▶ Oyna](https://fozdemiroglu.github.io/neon-hesap/)** |
 
 ### Shadow Runner
 
@@ -118,6 +120,26 @@ Elmaları topla, uza, çarpma! Tek başına rekor kovala ya da aynı ekranda iki
 <a href="https://fozdemiroglu.github.io/neon-yilan/"><img src="https://raw.githubusercontent.com/fozdemiroglu/fozdemiroglu/main/assets/neon-yilan-preview.jpg" alt="Neon Yılan oyun ekranı — oynamak için tıkla" width="600"></a>
 
 **[▶ NEON YILAN OYNA](https://fozdemiroglu.github.io/neon-yilan/)** · [Kaynak kodları](https://github.com/fozdemiroglu/fozdemiroglu.github.io/tree/main/neon-yilan)
+
+---
+
+### Neon Kelime
+
+Türkçe kelime bulmaca: gizli kelimeyi 6 denemede bul. 1–8. sınıfa göre dört seviye, günün kelimesi, sınırsız oyun ve anlamdan kelime bulduran bilmece modu. Bulunan her kelime anlamı, hecelenişi ve örnek cümlesiyle Kelime Defteri'ne eklenir.
+
+<a href="https://fozdemiroglu.github.io/neon-kelime/"><img src="https://raw.githubusercontent.com/fozdemiroglu/fozdemiroglu/main/assets/neon-kelime-preview.jpg" alt="Neon Kelime oyun ekranı — oynamak için tıkla" width="600"></a>
+
+**[▶ NEON KELİME OYNA](https://fozdemiroglu.github.io/neon-kelime/)** · [Kaynak kodları](https://github.com/fozdemiroglu/fozdemiroglu.github.io/tree/main/neon-kelime)
+
+---
+
+### Neon Hesap
+
+1–8. sınıf matematik: toplamadan denklemlere 17 konu, cevaba göre ayarlanan zorluk ve her yanlışta adım adım açıklama. Sınırsız antrenman, zamana karşı, herkesin kendi sınıfından soru çözdüğü iki kişilik yarış ve çarpım tablosu ustalığı. Her çocuğa ayrı profil, günlük hedef ve rozetler.
+
+<a href="https://fozdemiroglu.github.io/neon-hesap/"><img src="https://raw.githubusercontent.com/fozdemiroglu/fozdemiroglu/main/assets/neon-hesap-preview.jpg" alt="Neon Hesap oyun ekranı — oynamak için tıkla" width="600"></a>
+
+**[▶ NEON HESAP OYNA](https://fozdemiroglu.github.io/neon-hesap/)** · [Kaynak kodları](https://github.com/fozdemiroglu/fozdemiroglu.github.io/tree/main/neon-hesap)
 
 ---
 
