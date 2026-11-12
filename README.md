@@ -105,7 +105,7 @@ Kartları çevir, eşlerini bul! Şekiller, taşıtlar veya rastgele kart setiyl
 
 ### Neon Tuğla
 
-Topu sektir, tuğlaları kır, FOZ'a ulaş! Kalp, ay yıldız, roket, araba, robot gibi 11 şekilli bölüm; geniş raket, ×3 top, lazer ve kalkan güçlendirmeleri. Minik ve Klasik mod, kombo puanı ve yerel rekorlar.
+Topu sektir, tuğlaları kır, FOZ'a ulaş! Kalp, ay, yıldız, roket, araba, robot gibi 11 şekilli bölüm; geniş raket, ×3 top, lazer ve kalkan güçlendirmeleri. Minik ve Klasik mod, kombo puanı ve yerel rekorlar.
 
 <a href="https://fozdemiroglu.github.io/neon-tugla/"><img src="https://raw.githubusercontent.com/fozdemiroglu/fozdemiroglu/main/assets/neon-tugla-preview.jpg" alt="Neon Tuğla oyun ekranı — oynamak için tıkla" width="600"></a>
 
