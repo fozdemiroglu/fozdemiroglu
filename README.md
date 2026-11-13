@@ -23,6 +23,7 @@ Internal audit & process improvement consultant. Building business software with
 | 🔤 **Neon Kelime** | **[▶ Oyna](https://fozdemiroglu.github.io/neon-kelime/)** |
 | ➗ **Neon Hesap** | **[▶ Oyna](https://fozdemiroglu.github.io/neon-hesap/)** |
 | 🔢 **Neon 2048** | **[▶ Oyna](https://fozdemiroglu.github.io/neon-2048/)** |
+| 🏅 **Neon Olimpiyat** | **[▶ Oyna](https://fozdemiroglu.github.io/neon-olimpiyat/)** |
 
 ### Shadow Runner
 
@@ -151,6 +152,16 @@ Kaydır, aynı sayıları birleştir, en büyük kareye ulaş! 3×3'ten 6×6'ya 
 <a href="https://fozdemiroglu.github.io/neon-2048/"><img src="https://raw.githubusercontent.com/fozdemiroglu/fozdemiroglu/main/assets/neon-2048-preview.jpg" alt="Neon 2048 oyun ekranı — oynamak için tıkla" width="600"></a>
 
 **[▶ NEON 2048 OYNA](https://fozdemiroglu.github.io/neon-2048/)** · [Kaynak kodları](https://github.com/fozdemiroglu/fozdemiroglu.github.io/tree/main/neon-2048)
+
+---
+
+### Neon Olimpiyat
+
+Koş, atla, fırlat, nişan al! 100 metre, uzun atlama, cirit atma, yüksek atlama ve okçuluk. 1–4 oyuncu sırayla yarışır, bilgisayar rakipleri kadroyu tamamlar; her branşta madalyalar, sonunda podyumlu madalya töreni. Rekorlar ve madalya dolabı cihazda saklanır.
+
+<a href="https://fozdemiroglu.github.io/neon-olimpiyat/"><img src="https://raw.githubusercontent.com/fozdemiroglu/fozdemiroglu/main/assets/neon-olimpiyat-preview.jpg" alt="Neon Olimpiyat oyun ekranı — oynamak için tıkla" width="600"></a>
+
+**[▶ NEON OLİMPİYAT OYNA](https://fozdemiroglu.github.io/neon-olimpiyat/)** · [Kaynak kodları](https://github.com/fozdemiroglu/fozdemiroglu.github.io/tree/main/neon-olimpiyat)
 
 ---
 
