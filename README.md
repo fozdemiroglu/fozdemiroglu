@@ -24,6 +24,7 @@ Internal audit & process improvement consultant. Building business software with
 | ➗ **Neon Hesap** | **[▶ Oyna](https://fozdemiroglu.github.io/neon-hesap/)** |
 | 🔢 **Neon 2048** | **[▶ Oyna](https://fozdemiroglu.github.io/neon-2048/)** |
 | 🏅 **Neon Olimpiyat** | **[▶ Oyna](https://fozdemiroglu.github.io/neon-olimpiyat/)** |
+| 🏠 **Benim Hayal Evim** | **[▶ Oyna](https://fozdemiroglu.github.io/hayal-evim/)** |
 
 ### Shadow Runner
 
@@ -162,6 +163,16 @@ Koş, atla, fırlat, nişan al! 100 metre, uzun atlama, cirit atma, yüksek atla
 <a href="https://fozdemiroglu.github.io/neon-olimpiyat/"><img src="https://raw.githubusercontent.com/fozdemiroglu/fozdemiroglu/main/assets/neon-olimpiyat-preview.jpg" alt="Neon Olimpiyat oyun ekranı — oynamak için tıkla" width="600"></a>
 
 **[▶ NEON OLİMPİYAT OYNA](https://fozdemiroglu.github.io/neon-olimpiyat/)** · [Kaynak kodları](https://github.com/fozdemiroglu/fozdemiroglu.github.io/tree/main/neon-olimpiyat)
+
+---
+
+### Benim Hayal Evim
+
+Küçük çocuklar için hayal evi! Önce kendi karakterini yap (saç, kıyafet, taç, pelerin…), sonra salonu, mutfağı, yatak odasını ve bahçeyi 130'dan fazla eşyayla döşe. Lambaya dokun gece olsun, buzdolabından yiyecek çıkar, karakterini yatağa yatır, kaydıraktan kaydır. Kaybetmek yok, süre yok; evin kendiliğinden kaydedilir.
+
+<a href="https://fozdemiroglu.github.io/hayal-evim/"><img src="https://raw.githubusercontent.com/fozdemiroglu/fozdemiroglu/main/assets/hayal-evim-preview.jpg" alt="Benim Hayal Evim oyun ekranı — oynamak için tıkla" width="600"></a>
+
+**[▶ BENİM HAYAL EVİM OYNA](https://fozdemiroglu.github.io/hayal-evim/)** · [Kaynak kodları](https://github.com/fozdemiroglu/fozdemiroglu.github.io/tree/main/hayal-evim)
 
 ---
 
