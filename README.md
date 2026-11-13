@@ -22,6 +22,7 @@ Internal audit & process improvement consultant. Building business software with
 | 🐍 **Neon Yılan** | **[▶ Oyna](https://fozdemiroglu.github.io/neon-yilan/)** |
 | 🔤 **Neon Kelime** | **[▶ Oyna](https://fozdemiroglu.github.io/neon-kelime/)** |
 | ➗ **Neon Hesap** | **[▶ Oyna](https://fozdemiroglu.github.io/neon-hesap/)** |
+| 🔢 **Neon 2048** | **[▶ Oyna](https://fozdemiroglu.github.io/neon-2048/)** |
 
 ### Shadow Runner
 
@@ -140,6 +141,16 @@ Türkçe kelime bulmaca: gizli kelimeyi 6 denemede bul. 1–8. sınıfa göre d�
 <a href="https://fozdemiroglu.github.io/neon-hesap/"><img src="https://raw.githubusercontent.com/fozdemiroglu/fozdemiroglu/main/assets/neon-hesap-preview.jpg" alt="Neon Hesap oyun ekranı — oynamak için tıkla" width="600"></a>
 
 **[▶ NEON HESAP OYNA](https://fozdemiroglu.github.io/neon-hesap/)** · [Kaynak kodları](https://github.com/fozdemiroglu/fozdemiroglu.github.io/tree/main/neon-hesap)
+
+---
+
+### Neon 2048
+
+Kaydır, aynı sayıları birleştir, en büyük kareye ulaş! 3×3'ten 6×6'ya dört tahta, Klasik ve 2 dakikalık Zamana Karşı modu, geri alma hakkı, kaldığın yerden devam ve "ulaştığın kareler" koleksiyonu.
+
+<a href="https://fozdemiroglu.github.io/neon-2048/"><img src="https://raw.githubusercontent.com/fozdemiroglu/fozdemiroglu/main/assets/neon-2048-preview.jpg" alt="Neon 2048 oyun ekranı — oynamak için tıkla" width="600"></a>
+
+**[▶ NEON 2048 OYNA](https://fozdemiroglu.github.io/neon-2048/)** · [Kaynak kodları](https://github.com/fozdemiroglu/fozdemiroglu.github.io/tree/main/neon-2048)
 
 ---
 
