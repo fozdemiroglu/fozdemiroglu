@@ -29,6 +29,7 @@ Telefonuna veya bilgisayarına ana ekrana ekle, simgeye dokun, oyununu seç. İn
 | 🔢 **Neon 2048** | **[▶ Oyna](https://fozdemiroglu.github.io/neon-2048/)** |
 | 🏅 **Neon Olimpiyat** | **[▶ Oyna](https://fozdemiroglu.github.io/neon-olimpiyat/)** |
 | 🏠 **Benim Hayal Evim** | **[▶ Oyna](https://fozdemiroglu.github.io/hayal-evim/)** |
+| 🎓 **Neon English** | **[▶ Oyna](https://fozdemiroglu.github.io/neon-english/)** |
 
 ### Shadow Runner
 
@@ -177,6 +178,16 @@ Küçük çocuklar için hayal evi! Önce kendi karakterini yap (saç, kıyafet,
 <a href="https://fozdemiroglu.github.io/hayal-evim/"><img src="https://raw.githubusercontent.com/fozdemiroglu/fozdemiroglu/main/assets/hayal-evim-preview.jpg" alt="Benim Hayal Evim oyun ekranı — oynamak için tıkla" width="600"></a>
 
 **[▶ BENİM HAYAL EVİM OYNA](https://fozdemiroglu.github.io/hayal-evim/)** · [Kaynak kodları](https://github.com/fozdemiroglu/fozdemiroglu.github.io/tree/main/hayal-evim)
+
+---
+
+### Neon English
+
+A1'den C1'e İngilizce! 468 kelime, Türkçe anlamları ve örnek cümleleriyle. Kelime kartları, kelime testi, boşluk doldurma, harf harf yazma, cümle kurma, eşleştirme, balon patlatma, düzensiz fiiller ve meydan okuma. Seslendirme, akıllı tekrar, günlük hedef ve rozetler. Seviyeni bilmiyorsan 15 soruluk test sana uygun seviyeyi bulur.
+
+<a href="https://fozdemiroglu.github.io/neon-english/"><img src="https://raw.githubusercontent.com/fozdemiroglu/fozdemiroglu/main/assets/neon-english-preview.jpg" alt="Neon English oyun ekranı — oynamak için tıkla" width="600"></a>
+
+**[▶ NEON ENGLISH OYNA](https://fozdemiroglu.github.io/neon-english/)** · [Kaynak kodları](https://github.com/fozdemiroglu/fozdemiroglu.github.io/tree/main/neon-english)
 
 ---
 
