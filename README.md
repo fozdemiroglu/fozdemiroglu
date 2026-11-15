@@ -183,7 +183,7 @@ Küçük çocuklar için hayal evi! Önce kendi karakterini yap (saç, kıyafet,
 
 ### Neon English
 
-A1'den C1'e İngilizce! 468 kelime, Türkçe anlamları ve örnek cümleleriyle. Kelime kartları, kelime testi, boşluk doldurma, harf harf yazma, cümle kurma, eşleştirme, balon patlatma, düzensiz fiiller ve meydan okuma. Seslendirme, akıllı tekrar, günlük hedef ve rozetler. Seviyeni bilmiyorsan 15 soruluk test sana uygun seviyeyi bulur.
+A1'den C1'e İngilizce! 1.073 kelime, Türkçe anlamları ve örnek cümleleriyle. Kelime kartları, kelime testi, boşluk doldurma, harf harf yazma, cümle kurma, eşleştirme, balon patlatma, düzensiz fiiller ve meydan okuma. Seslendirme, akıllı tekrar, günlük hedef ve rozetler. Seviyeni bilmiyorsan 15 soruluk test sana uygun seviyeyi bulur.
 
 <a href="https://fozdemiroglu.github.io/neon-english/"><img src="https://raw.githubusercontent.com/fozdemiroglu/fozdemiroglu/main/assets/neon-english-preview.jpg" alt="Neon English oyun ekranı — oynamak için tıkla" width="600"></a>
 
