@@ -8,6 +8,10 @@ Internal audit & process improvement consultant. Building business software with
 
 Ücretsiz · İndirme veya kurulum yok · GitHub hesabı gerekmez · Telefon ve bilgisayarda oynanır
 
+### 📱 [FOZ Yapım Oyun Salonu — bütün oyunlar tek uygulamada](https://fozdemiroglu.github.io/oyun-salonu/)
+
+Telefonuna veya bilgisayarına ana ekrana ekle, simgeye dokun, oyununu seç. İnternetsiz de çalışır.
+
 | Oyun | Hemen oyna |
 | --- | --- |
 | 🏃 **Shadow Runner — Demir’in Macerası** | **[▶ Oyna](https://fozdemiroglu.github.io/shadow-runner/)** |
