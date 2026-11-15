@@ -18,10 +18,10 @@ Telefonuna veya bilgisayarına ana ekrana ekle, simgeye dokun, oyununu seç. İn
 | 🏎️ **Neon Drift** | **[▶ Oyna](https://fozdemiroglu.github.io/neon-drift/)** |
 | ✨ **Neon Tower** | **[▶ Oyna](https://fozdemiroglu.github.io/neon-tower/)** |
 | ✊ **Taş Kağıt Makas** | **[▶ Oyna](https://fozdemiroglu.github.io/tas-kagit-makas/)** |
-| 🧩 **XOX & SOS** | **[▶ Oyna](https://fozdemiroglu.github.io/tas-kagit-makas/xox-sos/)** |
-| 🚩 **Mayın Tarlası / Sayı Avcısı** | **[▶ Oyna](https://fozdemiroglu.github.io/tas-kagit-makas/mayin-tarlasi/)** |
-| 🔵 **4’ü Bir Yerde** | **[▶ Oyna](https://fozdemiroglu.github.io/tas-kagit-makas/dordu-bir-yerde/)** |
-| 🃏 **Neon Hafıza** | **[▶ Oyna](https://fozdemiroglu.github.io/tas-kagit-makas/neon-hafiza/)** |
+| 🧩 **XOX & SOS** | **[▶ Oyna](https://fozdemiroglu.github.io/xox-sos/)** |
+| 🚩 **Mayın Tarlası / Sayı Avcısı** | **[▶ Oyna](https://fozdemiroglu.github.io/mayin-tarlasi/)** |
+| 🔵 **4’ü Bir Yerde** | **[▶ Oyna](https://fozdemiroglu.github.io/dordu-bir-yerde/)** |
+| 🃏 **Neon Hafıza** | **[▶ Oyna](https://fozdemiroglu.github.io/neon-hafiza/)** |
 | 🧱 **Neon Tuğla** | **[▶ Oyna](https://fozdemiroglu.github.io/neon-tugla/)** |
 | 🐍 **Neon Yılan** | **[▶ Oyna](https://fozdemiroglu.github.io/neon-yilan/)** |
 | 🔤 **Neon Kelime** | **[▶ Oyna](https://fozdemiroglu.github.io/neon-kelime/)** |
@@ -75,9 +75,9 @@ Büyük ✊ ✋ ✌️ düğmeleriyle bilgisayara meydan oku! İlk üç galibiye
 
 İki oyun bir arada: bilgisayara karşı veya aynı cihazda iki kişi. XOX’ta ilk üç galibiyet, SOS’ta her yeni SOS’a puan ve ek hamle. Minik stratejist ve Klasik seviyeleri; 3×3 Mini, 4×4, 5×5 ve 6×6 SOS tahtaları.
 
-<a href="https://fozdemiroglu.github.io/tas-kagit-makas/xox-sos/"><img src="https://raw.githubusercontent.com/fozdemiroglu/fozdemiroglu/main/assets/xox-sos-preview.jpg" alt="XOX & SOS oyun ekranı — tarayıcıda oynamak için tıkla" width="600"></a>
+<a href="https://fozdemiroglu.github.io/xox-sos/"><img src="https://raw.githubusercontent.com/fozdemiroglu/fozdemiroglu/main/assets/xox-sos-preview.jpg" alt="XOX & SOS oyun ekranı — tarayıcıda oynamak için tıkla" width="600"></a>
 
-**[▶ XOX & SOS OYNA](https://fozdemiroglu.github.io/tas-kagit-makas/xox-sos/)** · [Kaynak kodları](https://github.com/fozdemiroglu/tas-kagit-makas/tree/main/xox-sos)
+**[▶ XOX & SOS OYNA](https://fozdemiroglu.github.io/xox-sos/)** · [Kaynak kodları](https://github.com/fozdemiroglu/fozdemiroglu.github.io/tree/main/xox-sos)
 
 ---
 
@@ -85,9 +85,9 @@ Büyük ✊ ✋ ✌️ düğmeleriyle bilgisayara meydan oku! İlk üç galibiye
 
 Sayıları takip et, tüm güvenli hücreleri aç. İlk açılış ve komşuları güvenli; üç zorluk, telefon için bayrak modu, süre ve yerel rekorlar.
 
-<a href="https://fozdemiroglu.github.io/tas-kagit-makas/mayin-tarlasi/"><img src="https://raw.githubusercontent.com/fozdemiroglu/fozdemiroglu/main/assets/mayin-tarlasi-preview.jpg" alt="Mayın Tarlası oyun ekranı — oynamak için tıkla" width="600"></a>
+<a href="https://fozdemiroglu.github.io/mayin-tarlasi/"><img src="https://raw.githubusercontent.com/fozdemiroglu/fozdemiroglu/main/assets/mayin-tarlasi-preview.jpg" alt="Mayın Tarlası oyun ekranı — oynamak için tıkla" width="600"></a>
 
-**[▶ MAYIN TARLASI OYNA](https://fozdemiroglu.github.io/tas-kagit-makas/mayin-tarlasi/)** · [Kaynak kodları](https://github.com/fozdemiroglu/tas-kagit-makas/tree/main/mayin-tarlasi)
+**[▶ MAYIN TARLASI OYNA](https://fozdemiroglu.github.io/mayin-tarlasi/)** · [Kaynak kodları](https://github.com/fozdemiroglu/fozdemiroglu.github.io/tree/main/mayin-tarlasi)
 
 ---
 
@@ -95,9 +95,9 @@ Sayıları takip et, tüm güvenli hücreleri aç. İlk açılış ve komşular�
 
 Taşını bırak, dördünü yatay, dikey veya çapraz birleştir. Bilgisayara karşı kolay/klasik seviye ya da aynı cihazda iki kişi; başlangıç oyuncusu seçimi ve maç skorları.
 
-<a href="https://fozdemiroglu.github.io/tas-kagit-makas/dordu-bir-yerde/"><img src="https://raw.githubusercontent.com/fozdemiroglu/fozdemiroglu/main/assets/dordu-bir-yerde-preview.jpg" alt="4’ü Bir Yerde oyun ekranı — oynamak için tıkla" width="600"></a>
+<a href="https://fozdemiroglu.github.io/dordu-bir-yerde/"><img src="https://raw.githubusercontent.com/fozdemiroglu/fozdemiroglu/main/assets/dordu-bir-yerde-preview.jpg" alt="4’ü Bir Yerde oyun ekranı — oynamak için tıkla" width="600"></a>
 
-**[▶ 4’Ü BİR YERDE OYNA](https://fozdemiroglu.github.io/tas-kagit-makas/dordu-bir-yerde/)** · [Kaynak kodları](https://github.com/fozdemiroglu/tas-kagit-makas/tree/main/dordu-bir-yerde)
+**[▶ 4’Ü BİR YERDE OYNA](https://fozdemiroglu.github.io/dordu-bir-yerde/)** · [Kaynak kodları](https://github.com/fozdemiroglu/fozdemiroglu.github.io/tree/main/dordu-bir-yerde)
 
 ---
 
@@ -105,9 +105,9 @@ Taşını bırak, dördünü yatay, dikey veya çapraz birleştir. Bilgisayara k
 
 Kartları çevir, eşlerini bul! Şekiller, taşıtlar veya rastgele kart setiyle üç zorlukta oyna. Süreni ve hamle sayını takip et, kendi rekorunu geç.
 
-<a href="https://fozdemiroglu.github.io/tas-kagit-makas/neon-hafiza/"><img src="https://raw.githubusercontent.com/fozdemiroglu/fozdemiroglu/main/assets/neon-hafiza-preview.jpg" alt="Neon Hafıza oyun ekranı — oynamak için tıkla" width="600"></a>
+<a href="https://fozdemiroglu.github.io/neon-hafiza/"><img src="https://raw.githubusercontent.com/fozdemiroglu/fozdemiroglu/main/assets/neon-hafiza-preview.jpg" alt="Neon Hafıza oyun ekranı — oynamak için tıkla" width="600"></a>
 
-**[▶ NEON HAFIZA OYNA](https://fozdemiroglu.github.io/tas-kagit-makas/neon-hafiza/)** · [Kaynak kodları](https://github.com/fozdemiroglu/tas-kagit-makas/tree/main/neon-hafiza)
+**[▶ NEON HAFIZA OYNA](https://fozdemiroglu.github.io/neon-hafiza/)** · [Kaynak kodları](https://github.com/fozdemiroglu/fozdemiroglu.github.io/tree/main/neon-hafiza)
 
 ---
 
