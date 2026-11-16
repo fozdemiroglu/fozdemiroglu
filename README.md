@@ -33,7 +33,7 @@ Telefonuna veya bilgisayarına ana ekrana ekle, simgeye dokun, oyununu seç. İn
 
 ### Shadow Runner
 
-Demir’in Macerası: engelleri aş, yıldızları topla ve özel aile finaline ulaş. Minik koşucu üç canla başlar; Klasik mod orijinal macerayı sunar.
+Demir’in Macerası: engelleri aş, yıldızları topla ve özel aile finaline ulaş. Dört tur: 3. turda Baba'nın Yolu ve çift zıplama, 4. turda ailece final koşusu. Minik koşucu üç canla başlar; Klasik mod orijinal macerayı sunar.
 
 <a href="https://fozdemiroglu.github.io/shadow-runner/"><img src="https://raw.githubusercontent.com/fozdemiroglu/shadow-runner/main/assets/preview.jpg" alt="Shadow Runner — tarayıcıda oynamak için tıkla" width="600"></a>
 
@@ -43,7 +43,7 @@ Demir’in Macerası: engelleri aş, yıldızları topla ve özel aile finaline 
 
 ### Neon Drift
 
-Neon yollarda sür, elmasları topla ve trafikten kaç. İkinci turda su birikintileri ve şerit değiştiren araçlara dikkat!
+Neon yollarda sür, elmasları topla ve trafikten kaç. Arabaların yanında motosiklet ve otobüsler, ara ara S virajlar var. İkinci turda su birikintileri ve şerit değiştiren araçlara dikkat!
 
 <a href="https://fozdemiroglu.github.io/neon-drift/"><img src="https://raw.githubusercontent.com/fozdemiroglu/neon-drift/main/assets/preview.jpg" alt="Neon Drift — tarayıcıda oynamak için tıkla" width="600"></a>
 
@@ -53,7 +53,7 @@ Neon yollarda sür, elmasları topla ve trafikten kaç. İkinci turda su birikin
 
 ### Neon Tower
 
-Otomatik zıplayan kaşifi yönlendir; hareketli, kırılan ve yaylı platformlarla yüksel.
+Otomatik zıplayan kaşifi yönlendir; hareketli, kırılan ve yaylı platformlarla yüksel. 10. bölgeden sonra Fırtına Zirvesi: hayalet platformlar, drone'lar, roket ve rüzgâr.
 
 <a href="https://fozdemiroglu.github.io/neon-tower/"><img src="https://raw.githubusercontent.com/fozdemiroglu/neon-tower/main/assets/preview.jpg" alt="Neon Tower — tarayıcıda oynamak için tıkla" width="600"></a>
 
@@ -113,7 +113,7 @@ Kartları çevir, eşlerini bul! Şekiller, taşıtlar veya rastgele kart setiyl
 
 ### Neon Tuğla
 
-Topu sektir, tuğlaları kır, FOZ'a ulaş! Kalp, ay, yıldız, roket, araba, robot gibi 11 şekilli bölüm; geniş raket, ×3 top, lazer ve kalkan güçlendirmeleri. Minik ve Klasik mod, kombo puanı ve yerel rekorlar.
+Topu sektir, tuğlaları kır, FOZ'a ulaş! Kalp, ay, yıldız, roket, araba, robot, kuş gibi 12 şekilli bölüm; geniş raket, ×3 top, lazer ve kalkan güçlendirmeleri. Minik ve Klasik mod, kombo puanı ve yerel rekorlar.
 
 <a href="https://fozdemiroglu.github.io/neon-tugla/"><img src="https://raw.githubusercontent.com/fozdemiroglu/fozdemiroglu/main/assets/neon-tugla-preview.jpg" alt="Neon Tuğla oyun ekranı — oynamak için tıkla" width="600"></a>
 
