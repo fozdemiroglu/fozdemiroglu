@@ -113,7 +113,7 @@ Kartları çevir, eşlerini bul! Şekiller, taşıtlar veya rastgele kart setiyl
 
 ### Neon Tuğla
 
-Topu sektir, tuğlaları kır, FOZ'a ulaş! Kalp, ay, yıldız, roket, araba, robot, kuş gibi 12 şekilli bölüm; geniş raket, ×3 top, lazer ve kalkan güçlendirmeleri. Minik ve Klasik mod, kombo puanı ve yerel rekorlar.
+Topu sektir, tuğlaları kır, FOZ'a ulaş! Kalp, ay, yıldız, roket, araba, robot, kuş, yarasa, basket topu gibi 14 şekilli bölüm; geniş raket, ×3 top, lazer ve kalkan güçlendirmeleri. Minik ve Klasik mod, kombo puanı ve yerel rekorlar.
 
 <a href="https://fozdemiroglu.github.io/neon-tugla/"><img src="https://raw.githubusercontent.com/fozdemiroglu/fozdemiroglu/main/assets/neon-tugla-preview.jpg" alt="Neon Tuğla oyun ekranı — oynamak için tıkla" width="600"></a>
 
@@ -163,7 +163,7 @@ Kaydır, aynı sayıları birleştir, en büyük kareye ulaş! 3×3'ten 6×6'ya 
 
 ### Neon Olimpiyat
 
-Koş, atla, fırlat, nişan al! 100 metre, uzun atlama, cirit atma, yüksek atlama ve okçuluk. 1–4 oyuncu sırayla yarışır, bilgisayar rakipleri kadroyu tamamlar; her branşta madalyalar, sonunda podyumlu madalya töreni. Rekorlar ve madalya dolabı cihazda saklanır.
+Koş, atla, fırlat, nişan al! 8 branş: 100 metre, 110 metre engelli, uzun atlama, cirit atma, gülle atma, yüksek atlama, okçuluk ve 4×100 bayrak. 1–4 oyuncu sırayla yarışır, bilgisayar rakipleri kadroyu tamamlar; her branşta madalyalar, sonunda podyumlu madalya töreni. Rekorlar ve madalya dolabı cihazda saklanır.
 
 <a href="https://fozdemiroglu.github.io/neon-olimpiyat/"><img src="https://raw.githubusercontent.com/fozdemiroglu/fozdemiroglu/main/assets/neon-olimpiyat-preview.jpg" alt="Neon Olimpiyat oyun ekranı — oynamak için tıkla" width="600"></a>
 
