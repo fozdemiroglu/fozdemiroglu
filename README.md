@@ -173,7 +173,7 @@ Koş, atla, fırlat, nişan al! 8 branş: 100 metre, 110 metre engelli, uzun atl
 
 ### Benim Hayal Evim
 
-Küçük çocuklar için hayal evi! Önce kendi karakterini yap (saç, kıyafet, taç, pelerin…), sonra salonu, mutfağı, yatak odasını ve bahçeyi 130'dan fazla eşyayla döşe. Lambaya dokun gece olsun, buzdolabından yiyecek çıkar, karakterini yatağa yatır, kaydıraktan kaydır. Kaybetmek yok, süre yok; evin kendiliğinden kaydedilir.
+Küçük çocuklar için hayal evi! Önce kendi karakterini yap (saç, kıyafet, taç, pelerin…), sonra salonu, mutfağı, yatak odasını ve bahçeyi 160'tan fazla eşyayla döşe. Lambaya dokun gece olsun, buzdolabından yiyecek çıkar, karakterini yatağa yatır, kaydıraktan kaydır. Kaybetmek yok, süre yok; evin kendiliğinden kaydedilir.
 
 <a href="https://fozdemiroglu.github.io/hayal-evim/"><img src="https://raw.githubusercontent.com/fozdemiroglu/fozdemiroglu/main/assets/hayal-evim-preview.jpg" alt="Benim Hayal Evim oyun ekranı — oynamak için tıkla" width="600"></a>
 
