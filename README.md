@@ -30,6 +30,7 @@ Telefonuna veya bilgisayarına ana ekrana ekle, simgeye dokun, oyununu seç. İn
 | 🏅 **Neon Olimpiyat** | **[▶ Oyna](https://fozdemiroglu.github.io/neon-olimpiyat/)** |
 | 🏠 **Benim Hayal Evim** | **[▶ Oyna](https://fozdemiroglu.github.io/hayal-evim/)** |
 | 🎓 **Neon English** | **[▶ Oyna](https://fozdemiroglu.github.io/neon-english/)** |
+| 🟪 **Neon Blok** | **[▶ Oyna](https://fozdemiroglu.github.io/neon-blok/)** |
 
 ### Shadow Runner
 
@@ -188,6 +189,16 @@ A1'den C1'e İngilizce! 1.123 kelime, Türkçe anlamları ve örnek cümleleriyl
 <a href="https://fozdemiroglu.github.io/neon-english/"><img src="https://raw.githubusercontent.com/fozdemiroglu/fozdemiroglu/main/assets/neon-english-preview.jpg" alt="Neon English oyun ekranı — oynamak için tıkla" width="600"></a>
 
 **[▶ NEON ENGLISH OYNA](https://fozdemiroglu.github.io/neon-english/)** · [Kaynak kodları](https://github.com/fozdemiroglu/fozdemiroglu.github.io/tree/main/neon-english)
+
+---
+
+### Neon Blok
+
+Blokları yerleştir, satırları patlat! İki mod: **Düşen Bloklar**'da parçalar yukarıdan düşer; kaydır, döndür, kenara ayır, satırları temizle, seviye atladıkça hızlan. **Blok Yerleştir**'de parçaları 8×8 tahtaya sürükle, satır ve sütunları patlat; süre yok. Minik ve Klasik zorluk, kombo ve seri puanları.
+
+<a href="https://fozdemiroglu.github.io/neon-blok/"><img src="https://raw.githubusercontent.com/fozdemiroglu/fozdemiroglu/main/assets/neon-blok-preview.jpg" alt="Neon Blok oyun ekranı — oynamak için tıkla" width="600"></a>
+
+**[▶ NEON BLOK OYNA](https://fozdemiroglu.github.io/neon-blok/)** · [Kaynak kodları](https://github.com/fozdemiroglu/fozdemiroglu.github.io/tree/main/neon-blok)
 
 ---
 
